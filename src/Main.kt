@@ -51,7 +51,7 @@ class Main() {
         }
         return sum
     }
-
+//
     fun printResults(total: Int, hand: Set<Card>) {
 
         print("Your Hand was:")
